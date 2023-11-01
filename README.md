@@ -24,6 +24,7 @@ Box plots for detecting outliers.
 Scatter plots for examining relationships between variables.
 Bar charts for categorical data.
 Heatmaps for correlation analysis.
+![image](https://github.com/chittettu/EDA-/assets/105189151/4acbdb80-7a74-481b-b00c-fe0f303aa478)
 
 # Feature Engineering:
 Create new features or transform existing ones if it can lead to better insights or model performance.
