@@ -26,6 +26,8 @@ Bar charts for categorical data.
 Heatmaps for correlation analysis.
 ![image](https://github.com/chittettu/EDA-/assets/105189151/4acbdb80-7a74-481b-b00c-fe0f303aa478)
 
+![image](https://github.com/chittettu/EDA-/assets/105189151/d9866a2c-cde6-4789-9119-96d787ceafc2)
+
 # Feature Engineering:
 Create new features or transform existing ones if it can lead to better insights or model performance.
 
