@@ -35,4 +35,4 @@ Create new features or transform existing ones if it can lead to better insights
 Calculate and visualize correlations between numerical variables (e.g., using a correlation matrix or a heatmap).
 Identify strong correlations that may indicate multicollinearity or provide insights into relationships within the data.
 
-![Untitled](https://github.com/chittettu/EDA-/assets/105189151/ca3635d9-675d-46ac-be3c-492488dfa7c5)
+![Untitled](https://github.com/chittettu/EDA-/assets/105189151/0d7cda35-4698-4e31-aaf0-72a7fc7aedfb)
